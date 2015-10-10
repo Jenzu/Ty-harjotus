@@ -1,0 +1,8 @@
+FlatOut
+
+FlatOut is a series of action racing video games created by Finnish independent 
+video game developer Bugbear Entertainment.
+Gameplay in FlatOut places emphasis on demolition derby-style races,
+and features a sophisticated physics engine.
+16 different cars are included, each with 5 different skins for them.
+The game is most known for car drivers flying through the windshield.

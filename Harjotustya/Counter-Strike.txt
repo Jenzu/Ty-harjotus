@@ -1,0 +1,13 @@
+
+Counter-Strike
+
+Counter-Strike is a first-person shooter video game developed by
+Valve Corporation.
+It was initially developed and released as a Half-Life modification by
+Minh "Gooseman" Le and Jess "Cliffe" Cliffe in 1999.
+Counter-Strike is a first-person shooter game in which players
+join either the terrorist team,
+the counter-terrorist team, or become spectators.
+Each team attempts to complete their mission objective
+and/or eliminate the opposing team.
+Each round starts with the two teams spawning simultaneously.

@@ -1,0 +1,20 @@
+
+Crysis
+
+Crysis is a first-person shooter video game developed by Crytek and published by Electronic Arts for Microsoft Windows.
+The player controls a Delta Force soldier codenamed Nomad.
+The player's weapons can be customized without pausing the flow of time,
+for example changing firing modes, changing scopes or adding sound suppressors.
+
+The player is also capable of selecting various modes in Nomad's military
+"Nanosuit" which draw power from the suit's energy.
+When the suit's energy is depleted, no modes can be used and the player is more vulnerable to damage before the suit recharges.
+
+One of four modes can be selected:
+Armor deflects damage and recharges the suit's energy faster.
+Strength allows stronger hand-to-hand combat, the bility to throw objects
+and enemies with deadly force, higher jumps, steadier aiming and reduced weapon recoil.
+Speed increases running and swimming speed, as well as other forms of motion
+such as reloading weapons.
+And Cloak, which renders Nomad almost completely invisible and
+suppresses movement noise.
